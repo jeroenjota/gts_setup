@@ -1,0 +1,65 @@
+html {
+	height: 100%;
+}
+
+body {
+	padding-top: 70px;
+	font-family: Alegreya;
+	font-size: 16px;
+	background-color: #192d03;
+}
+
+.jumbotron {
+	color: #0a330a;
+	background-color: #ccffcc;
+	text-shadow: 3px 3px 16px rgba(17, 85, 17, 1);
+/*	,
+				 0px 8px 13px rgba(17,85,17, 0.3),
+	             0px 15px 23px rgba(17,85,17, 0.1);
+*/}
+
+.jumbotron p {
+	font-family: 'Alegreya SC' ;
+}
+
+.jumbotron h1 {
+	font-size: 4em;
+}
+.jumbo_icon {
+	text-shadow: none;
+}
+.navbar-inverse {
+	background-color: #ccffcc;
+	font-family: 'Alegreya Sans SC';
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #115511;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #115511;
+}
+
+.content {
+	color: #115511;
+	background-color: #ccffcc;
+	/*border: 1px solid #115511;*/
+	height: 100%;
+	padding: 5px;
+	min-height: 200px;
+	height: 100%;
+	margin-bottom: 10px;
+}
+
+.sidebar {
+	background-color: #ccffcc;
+	font-family: 'Alegreya Sans SC';
+	border-right: 1px solid white;
+	padding: 5px;
+	min-height: 200px;
+	height: 100%;
+	color: #115511;
+	height: 100%;
+	margin-bottom: 10px;
+}
